@@ -1,0 +1,25 @@
+{
+  "name": "react-native-pinchable",
+  "version": "0.2.1",
+  "homepage": "https://github.com/oblador/react-native-pinchable",
+  "license": "MIT",
+  "authors": {
+    "Joel Arvidsson": "joel@oblador.se"
+  },
+  "summary": "Instagram like pinch to zoom for React Native.",
+  "source": {
+    "git": "https://github.com/oblador/react-native-pinchable.git",
+    "tag": "v0.2.1"
+  },
+  "source_files": "ios/*.{h,m}",
+  "preserve_paths": "**/*.js",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "10.0"
+  },
+  "dependencies": {
+    "React-Core": [
+
+    ]
+  }
+}

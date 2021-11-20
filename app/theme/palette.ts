@@ -1,0 +1,36 @@
+export const palette = {
+  black: '#1d1d1d',
+  offWhite: '#e6e6e6',
+  orange: '#FBA928',
+  orangeDarker: '#EB9918',
+  angry: '#dd3333',
+
+  milky: '#F9F9F9',
+  gold: '#FBBC05',
+  goldPlus: '#F2C94C',
+  lighterGreen: '#7fc27c',
+  lightGreen: '#E4F4E4',
+  grey: '#A8A8A8',
+  greyStrong: '#c4c4c4',
+  moreGrey: '#707070',
+  greySlow: '#A9A9A9',
+  middleGrey: '#DDDDDD',
+  lightGrey: '#D9D9D9',
+  soGrey: '#BDBDBD',
+  lighterGrey: '#828282',
+  lighterGreyPlus: '#F2F2F2',
+  black05: 'rgba(0, 0, 0, 0.5)',
+  black01: 'rgba(0, 0, 0, 0.1)',
+  white: '#ffffff',
+  greenSlow: '#CCE8C9',
+  pink: '#D20D3C',
+
+  // costume colors
+  primary: '#4DB748',
+  secondary: '#000000',
+
+  background: '#e0e0e0',
+  success: '#108f2c',
+  danger: '#ba2211',
+  text: '#c4c4c4',
+}

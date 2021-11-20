@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Helpt</string>
+    <string name="server_client_id">738026773059-k4mu46prd9rm2arsals402f84n4v1492.apps.googleusercontent.com</string>
+    <string name="facebook_app_id">3718682258227630</string>
+    <string name="fb_login_protocol_scheme">fb3718682258227630</string>
+</resources>

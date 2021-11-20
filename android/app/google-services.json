@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "738026773059",
+    "project_id": "ferrous-aleph-310719",
+    "storage_bucket": "ferrous-aleph-310719.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738026773059:android:b1a1cbb62dbb26d8d612f6",
+        "android_client_info": {
+          "package_name": "com.helpt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738026773059-ft4lfhvikr5sh6mnnjue1c6bt7g05639.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.helpt",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "738026773059-ucdk437ahecl429ukojg89i57ssea7gp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlIqbEaslOLehPbqk27eh5yy2DXTpGTwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738026773059-ucdk437ahecl429ukojg89i57ssea7gp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "738026773059-5snmk9js0o7egfoclidjqfrmi0349oqg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.helpt"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

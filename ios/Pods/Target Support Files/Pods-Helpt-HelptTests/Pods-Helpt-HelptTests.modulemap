@@ -1,0 +1,6 @@
+module Pods_Helpt_HelptTests {
+  umbrella header "Pods-Helpt-HelptTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

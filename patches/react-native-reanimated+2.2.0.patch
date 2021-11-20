@@ -1,0 +1,13 @@
+diff --git a/node_modules/react-native-reanimated/ios/REANodesManager.m b/node_modules/react-native-reanimated/ios/REANodesManager.m
+index d5da558..7dc9a77 100644
+--- a/node_modules/react-native-reanimated/ios/REANodesManager.m
++++ b/node_modules/react-native-reanimated/ios/REANodesManager.m
+@@ -218,7 +218,7 @@ - (void)onAnimationFrame:(CADisplayLink *)displayLink
+ }
+ 
+ - (BOOL)uiManager:(RCTUIManager *)manager performMountingWithBlock:(RCTUIManagerMountingBlock)block {
+-  RCTAssert(_mounting == nil, @"Mouting block is expected to not be set");
++  // RCTAssert(_mounting == nil, @"Mouting block is expected to not be set");
+   _mounting = block;
+   return YES;
+ }
